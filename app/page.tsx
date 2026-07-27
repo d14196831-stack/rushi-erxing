@@ -83,7 +83,7 @@ export default function Home() {
       <header className="site-header">
         <a className="wordmark" href="#top" aria-label="返回页面顶部">
           <span className="wordmark-seed" aria-hidden="true" />
-          <span>树林</span>
+          <span>如实</span>
         </a>
         <nav className="header-nav" aria-label="主要导航">
           <a href="#roots">内核</a>
